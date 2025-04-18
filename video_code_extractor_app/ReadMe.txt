@@ -24,6 +24,3 @@
    - Check if the extracted snippets are displayed in the app.
    - Use the filter and export features to ensure they work as expected.
 
-## Notes
-- Make sure Python is installed on your system.
-- If you encounter issues, check the console for error messages and resolve them accordingly.
